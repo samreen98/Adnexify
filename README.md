@@ -19,7 +19,7 @@ AI Powered Dynamic Content Creation.
 3. **Configuration:**
 
     - In `object_overlay.py`, update the path of `"lama_ckpt"` to your system path after downloading required checkpoint.
-    - Download checkpoint 'sam_vit_b_01ec64.pth' and put in folder sam_checkpoints
+    - Download checkpoint 'sam_vit_b_01ec64.pth' and put in folder `sam_checkpoints`
     - In `ad_creation.py`, provide your `OPENAI_API_KEY`.
 
 4. **Run the Application:**
